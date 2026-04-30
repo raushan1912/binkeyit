@@ -1,1 +1,3 @@
-# Binkeyit Full Stack MERN App
+# BlinkIt-Clone-Full-Stack-Ecommerce
+BlinkIt-Clone-Full-Stack-Ecommerce
+
